@@ -1,0 +1,16 @@
+{
+  "name": "tarkov-bot",
+  "version": "1.0.0",
+  "description": "Tarkov bot interacts with the tarkov api to get real time game data",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MrRed",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.2.0",
+    "graphql-request": "^4.3.0",
+    "node": "^18.7.0"
+  }
+}
